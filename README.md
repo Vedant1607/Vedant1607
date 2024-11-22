@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **sinhavedant0705@gmail.com**
 
-- ⚡ Fun fact **I read about new tech trends in my free time**
+- ⚡ Fun fact **I am a tech geek at heart**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
