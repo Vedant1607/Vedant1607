@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/vedant_sinha_" target="blank"><img src="https://img.shields.io/twitter/follow/vedant_sinha_?logo=twitter&style=for-the-badge" alt="vedant_sinha_" /></a> </p>
 
-- 🌱 I’m currently learning **python, pandas and numpy**
+- 🌱 I’m currently learning **python, pandas and tkinter**
 
 - 💬 Ask me about **python, turtle, pandas and numpy**
 
