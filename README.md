@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/vedant_sinha_" target="blank"><img src="https://img.shields.io/twitter/follow/vedant_sinha_?logo=twitter&style=for-the-badge" alt="vedant_sinha_" /></a> </p>
 
-- 🌱 I’m currently learning **python, pandas and tkinter**
+- 🌱 I’m currently learning **web development**
 
-- 💬 Ask me about **python, turtle, pandas and numpy**
+- 💬 Ask me about **anything related to programming**
 
 - 📫 How to reach me **sinhavedant0705@gmail.com**
 
