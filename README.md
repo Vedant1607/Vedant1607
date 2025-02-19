@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vedant Sinha</h1>
-<h3 align="center">A passionate Python Developer and AI enthusiast from India</h3>
+<h3 align="center">I'm a Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedant1607&label=Profile%20views&color=0e75b6&style=flat" alt="vedant1607" /> </p>
 
