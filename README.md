@@ -1,4 +1,4 @@
-[<h1 align="center">Hi 👋, I'm Vedant Sinha</h1>
+<h1 align="center">Hi 👋, I'm Vedant Sinha</h1>
 <h3 align="center">I'm a Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedant1607&label=Profile%20views&color=0e75b6&style=flat" alt="vedant1607" /> </p>
@@ -28,4 +28,3 @@
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=vedant1607&show_icons=true&locale=en&layout=compact" alt="vedant1607" /></p>
-](https://rahuldkjain.github.io/gh-profile-readme-generator/)
